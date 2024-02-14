@@ -18,7 +18,7 @@ Este projeto consiste em uma API desenvolvida para um sistema de Ponto de Venda,
 1. **Clone o repositório:**
 
    ```
-   git clone https://github.com/seu-usuario/pdv-backend.git
+   git clone git@github.com:Guuzih/Sistema-PDV.git
    ```
 
 2. **Instale as dependências:**
